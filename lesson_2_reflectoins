@@ -1,0 +1,2 @@
+1. When you initialize a repository git converts a directory to a git repository but it does not create initial commits for any of these files-you have to do it yourself. It also indicates how none of the files are being tracked because no history exists
+2. The staging area provides a halway point in between the wd and repos. becuase it allows you to commit two files to staging area, but then bundle these in to the repository in a single commit
